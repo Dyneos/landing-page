@@ -1,0 +1,45 @@
+.head-section{
+    background-color: #1F2937;
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    gap: 16px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 32px;
+}
+
+.logo{
+    width: 100px;
+    height: auto;
+}
+
+.underheader {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+h2 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 800;
+}
+
+.underheader img {
+    width: 30%;
+    height: auto;
+}
+
+.underheader button {
+    color: #3882F6;
+}
